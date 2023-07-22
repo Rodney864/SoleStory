@@ -1,5 +1,6 @@
 # WebsiteProject
 **Project Title: History of Jordans Website**
+https://webpages.charlotte.edu/rsmit353/Exercise/index.html
 
 **Description:**
 This project was completed during the Spring semester and showcases the rich history of Jordans, paying homage to the iconic line of athletic shoes. The website consists of a Home page and three other pages, each offering unique insights into the evolution and significance of Jordan sneakers.
